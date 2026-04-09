@@ -1,4 +1,4 @@
-# PSOC™ Edge E3 Training - Importing and profiling a pre-trained machine learning model on PSOC™ Edge
+# PSOC™ Edge Training - Importing and profiling a pre-trained machine learning model on PSOC™ Edge
 
 This training introduces why and how to optimize neural network (NN) models for deployment on
 PSOC™ Edge devices. It highlights that techniques such as pruning, sparsity, and quantization can
