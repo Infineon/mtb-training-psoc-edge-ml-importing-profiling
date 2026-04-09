@@ -19,7 +19,7 @@ benefits of enabling machine learning optimizations.
 ## Pre-requisites
 ### Recommended trainings
 - This training does not cover the basic concepts of ModusToolbox™ and PSOC™ Edge.
-  - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/product-information/psocdeveloper/discover).
+  - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/PSOCdeveloper).
   - For PSOC™ Edge trainings, from beginner tutorials to advanced sessions, visit the [PSOC™ Edge E84 Training Collection](https://infineon-academy.csod.com/ui/lms-learner-playlist/PlaylistDetails?playlistId=8f04565f-88f4-4ca7-83b3-22e501656fbd).
 
 ### Tools (see [training manual](#content) for versions and installation instructions)
@@ -49,7 +49,7 @@ benefits of enabling machine learning optimizations.
 - Understand the machine learning deployment workflow, specifically for pre-trained model deployment using DEEPCRAFT™ Model Converter
 
 ## Content
-- Training video at Infineon Academy (coming soon)
+- [Training video at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learning-details/app/video/1929a16f-0f00-4339-8f0d-e95194f7b290)
 - [Presentation](./Presentation/PSE_ML_Profiling_Pretrained_model.pdf)
 - [Training manual](./Manual/PSE_ML_Profiling_Pretrained_model_Training_Manual.pdf)
 
@@ -57,11 +57,11 @@ benefits of enabling machine learning optimizations.
 
 - [PSOC™ Edge MCUs](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm)
 - [Infineon Edge Protect](https://www.infineon.com/promo/edge-protect)
-- [Introduction to PSOC™ MCUs and ModusToolbox™](https://www.infineon.com/product-information/psocdeveloper)
+- [Introduction to PSOC™ MCUs and ModusToolbox™](https://www.infineon.com/PSOCdeveloper)
 - [PSOC™ Edge E84 training collection](https://infineon-academy.csod.com/samldefault.aspx?ouid=1&returnURL=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dphnxdriver%2526routename%253dAdmin%252fPlayerPageRedirectHandler%2526Route%253d%25252flms-learner-playlist%25252fPlaylistDetails%2526Parameters%253dplaylistId%25253d8f04565f-88f4-4ca7-83b3-22e501656fbd)
 
 ## History
 
 | Date | Version | Description |
 | ---- | ------- | ----------- |
-| 03/25/2026 | ** | First public release |
+| 04/09/2026 | ** | First public release |
